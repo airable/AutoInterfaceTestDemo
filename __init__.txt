@@ -1,0 +1,4 @@
+*** Settings ***
+Library           collections
+Resource          Common/basConfig.txt
+Library           requests

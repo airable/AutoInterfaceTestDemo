@@ -1,0 +1,9 @@
+*** Settings ***
+Library           requests
+Library           RequestsLibrary
+Library           Collections
+Library           BOSFLibrary
+
+*** Variables ***
+
+*** Keywords ***

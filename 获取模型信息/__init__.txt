@@ -1,0 +1,2 @@
+*** Settings ***
+Resource          获取模型信息业务关键字.robot
